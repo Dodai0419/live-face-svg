@@ -1,0 +1,5 @@
+{
+  "name": "live-face-svg",
+  "owner": { "name": "Dodai0419" },
+  "plugins": [{ "name": "live-face-svg", "source": "./", "description": "Give any drawn character a living face that blinks, glances, smiles and talks, as one SVG that plays anywhere." }]
+}

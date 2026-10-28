@@ -1,0 +1,4 @@
+live-face-svg ports the motion engine (templates/react-native/motion.ts) and the live face
+(templates/react-native/liveFace.tsx) of rossark-motion-skill, https://github.com/rossark0/rossark-motion-skill
+(commit 9b20964), MIT License, Copyright (c) 2026 rossark0. The mood choreographies follow the
+feelings table in its SKILL.md. The demo head, the robot example and the SVG writer are new.
